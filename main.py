@@ -20,6 +20,7 @@ def proceed(test):
             return word
 
 
+THESE ARE THE STEPS TO TAKE TO RETURN THE REVERSE STRING
 # 1st round
 word1 = proceed(test_sentence)
 # 2nd round
